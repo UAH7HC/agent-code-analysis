@@ -1,0 +1,1231 @@
+# AUTO-GENERATED PROJECT FOLDER TREE
+# Project root: C:\sandboxes\code-graph\demo\UAH7HC_W_CodeGraph
+# Max depth: 6
+# Include files: False
+# Regenerate with .roo/tools/scripts/get_project_folder_tree.py
+
+UAH7HC_W_CodeGraph/
+├── .accessors/
+│   └── ecucvalues/
+├── .bin/
+│   ├── ecucvalues/
+│   ├── fee/
+│   │   └── templates/
+│   └── rbamemlib/
+│       └── errorhandler/
+├── .buildframework/
+│   └── default/
+│       ├── actionLogging/
+│       └── persistence/
+├── .cdgb/
+│   └── compiler/
+├── .roo/
+│   ├── output/
+│   │   ├── code-base-knowledge/
+│   │   └── code-graph-visualized/
+│   ├── skills/
+│   │   ├── code-analysis/
+│   │   ├── code-base-knowledge/
+│   │   └── reading-knowledge-base/
+│   └── tools/
+│       ├── bins/
+│       └── docs/
+├── .settings/
+├── _bin/
+├── _Build_ASW/
+│   ├── _output/
+│   ├── compiler/
+│   ├── HEXMOD_OUTPUT/
+│   └── linker/
+├── _fwd/
+│   └── _metadata/
+│       └── mic/
+├── _gen/
+│   └── swb/
+│       ├── coreproc/
+│       │   └── _metadata/
+│       │       └── mic/
+│       └── msrdata/
+│           ├── dcl/
+│           ├── icelst/
+│           ├── icetemplates/
+│           ├── iceworkspace/
+│           ├── includes/
+│           ├── opt/
+│           ├── srcfiles/
+│           └── srclst/
+├── _log/
+│   ├── bfw/
+│   ├── bsw/
+│   │   └── confitems/
+│   ├── mic/
+│   └── swb/
+│       ├── filegroup/
+│       │   └── batch/
+│       └── msrdata/
+├── _metadata/
+│   └── mic/
+├── _out/
+│   ├── _metadata/
+│   │   └── mic/
+│   └── OsGenFiles/
+│       └── _metadata/
+│           └── mic/
+├── Doc/
+├── rba/
+│   ├── _metadata/
+│   │   └── mic/
+│   ├── CFG/
+│   │   └── BootCtrl/
+│   │       ├── rba_BootCtrl/
+│   │       │   ├── _metadata/
+│   │       │   │   └── mic/
+│   │       │   ├── IFX/
+│   │       │   │   ├── _metadata/
+│   │       │   │   │   └── ... [depth limit]
+│   │       │   │   ├── DAIML_IFX_DEV5_40NM_B/
+│   │       │   │   ├── ELVIS_IFX_DEV3_40NM_A/
+│   │       │   │   ├── IFX_DEV3_40NM_A/
+│   │       │   │   ├── IFX_DEV4_40NM_A/
+│   │       │   │   ├── IFX_DEV5_40NM_B/
+│   │       │   │   └── PACCR_IFX_DEV5_40NM_B/
+│   │       │   └── ST/
+│   │       │       ├── _metadata/
+│   │       │       │   └── ... [depth limit]
+│   │       │       ├── DAF_ST_DEV3PLUS_C3_2/
+│   │       │       ├── ISUZU_ST_DEV3_40NM_C3_2/
+│   │       │       ├── ST_DEV3PLUS_C3/
+│   │       │       └── ST_DEV3PLUS_C3_2/
+│   │       └── uC1/
+│   │           └── _metadata/
+│   │               └── mic/
+│   ├── CUBAS/
+│   │   ├── BootCtrl/
+│   │   │   ├── _metadata/
+│   │   │   │   └── mic/
+│   │   │   ├── _self/
+│   │   │   │   └── doc/
+│   │   │   └── rba_BootCtrl/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── api/
+│   │   │       ├── doc/
+│   │   │       ├── scripts/
+│   │   │       │   ├── AR40/
+│   │   │       │   ├── AR42/
+│   │   │       │   └── common/
+│   │   │       │       └── ... [depth limit]
+│   │   │       └── src/
+│   │   ├── BswLib/
+│   │   │   └── uC1/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── _self/
+│   │   │       │   └── doc/
+│   │   │       ├── rba_BswLibAdapt/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── doc/
+│   │   │       │   └── src/
+│   │   │       ├── rba_BswSrv/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── src/
+│   │   │       │   └── template/
+│   │   │       ├── rba_MemLay/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       └── rba_Reset/
+│   │   │           ├── _metadata/
+│   │   │           │   └── ... [depth limit]
+│   │   │           ├── api/
+│   │   │           ├── doc/
+│   │   │           │   └── ... [depth limit]
+│   │   │           ├── scripts/
+│   │   │           │   └── ... [depth limit]
+│   │   │           └── src/
+│   │   ├── CanStack/
+│   │   │   └── CanTrcv/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── api/
+│   │   │       ├── doc/
+│   │   │       │   └── pic/
+│   │   │       ├── scripts/
+│   │   │       │   ├── paramdef/
+│   │   │       │   └── templates/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── src/
+│   │   │       ├── template/
+│   │   │       └── tools/
+│   │   │           └── CanTrcv_VersionMigration/
+│   │   │               └── ... [depth limit]
+│   │   ├── ComServices/
+│   │   │   └── rba_Trcv/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── api/
+│   │   │       ├── doc/
+│   │   │       │   └── pic/
+│   │   │       ├── scripts/
+│   │   │       │   └── templates/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── src/
+│   │   │       └── template/
+│   │   ├── CUCEL/
+│   │   │   ├── _self/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   └── doc/
+│   │   │   ├── Compiler/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   ├── scripts/
+│   │   │   │   └── template/
+│   │   │   ├── ComStack/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   └── scripts/
+│   │   │   ├── EcuC/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   ├── scripts/
+│   │   │   │   │   └── templates/
+│   │   │   │   │       └── ... [depth limit]
+│   │   │   │   └── src/
+│   │   │   ├── Platform/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   └── scripts/
+│   │   │   ├── rba_AISpecification/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   └── src/
+│   │   │   ├── rba_ArxmlGen/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   │   └── pic/
+│   │   │   │   └── scripts/
+│   │   │   ├── rba_CUCELCompuMethods/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   └── src/
+│   │   │   ├── rba_CUCELSwAddrMethods/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── doc/
+│   │   │   │   └── src/
+│   │   │   └── Standard/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── doc/
+│   │   │       └── scripts/
+│   │   ├── E2EServices/
+│   │   │   ├── _self/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   └── doc/
+│   │   │   │       └── pic/
+│   │   │   └── Crc/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── doc/
+│   │   │       │   └── pic/
+│   │   │       ├── scripts/
+│   │   │       ├── src/
+│   │   │       └── template/
+│   │   ├── EbOs/
+│   │   │   ├── _self/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   └── doc/
+│   │   │   ├── Os/
+│   │   │   │   ├── _self/
+│   │   │   │   │   └── _metadata/
+│   │   │   │   │       └── ... [depth limit]
+│   │   │   │   ├── Os/
+│   │   │   │   │   ├── _metadata/
+│   │   │   │   │   │   └── ... [depth limit]
+│   │   │   │   │   ├── api/
+│   │   │   │   │   ├── doc/
+│   │   │   │   │   ├── RTAOSAutoBuild/
+│   │   │   │   │   ├── RTAOSTool/
+│   │   │   │   │   ├── scripts/
+│   │   │   │   │   └── template/
+│   │   │   │   └── rba_OsTriCoreGHS/
+│   │   │   │       └── _metadata/
+│   │   │   │           └── ... [depth limit]
+│   │   │   ├── rba_MultiStackTrace/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── api/
+│   │   │   │   ├── doc/
+│   │   │   │   │   ├── pic/
+│   │   │   │   │   └── pic-src/
+│   │   │   │   ├── src/
+│   │   │   │   └── template/
+│   │   │   └── rba_Runtime/
+│   │   │       ├── _self/
+│   │   │       │   └── _metadata/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── rba_Runtime/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── scripts/
+│   │   │       │   ├── src/
+│   │   │       │   └── template/
+│   │   │       ├── rba_RuntimeIfx/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       └── rba_RuntimeSwBased/
+│   │   │           ├── _metadata/
+│   │   │           │   └── ... [depth limit]
+│   │   │           └── src/
+│   │   ├── Mcal/
+│   │   │   └── uC1/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── _self/
+│   │   │       │   └── doc/
+│   │   │       ├── Adc/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── Adc/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── rba_IoMcuAdc/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── Dio/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── Dio/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── rba_IoMcuDio/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── Gpt/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       ├── Icu/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── Icu/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── rba_IoMcuIcu/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── Mcu/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       ├── Port/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       ├── Pwm/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── Pwm/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── rba_IoMcuPwm/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── rba_Dma/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       ├── rba_Emm/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── rba_Emm/
+│   │   │       │       └── ... [depth limit]
+│   │   │       ├── rba_Gtm/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       ├── rba_McalAdapt/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── doc/
+│   │   │       │   └── src/
+│   │   │       ├── rba_Mpu/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       ├── rba_Reg/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   ├── api/
+│   │   │       │   ├── doc/
+│   │   │       │   ├── scripts/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── src/
+│   │   │       ├── Spi/
+│   │   │       │   ├── _metadata/
+│   │   │       │   │   └── ... [depth limit]
+│   │   │       │   └── Spi/
+│   │   │       │       └── ... [depth limit]
+│   │   │       └── Wdg/
+│   │   │           ├── _metadata/
+│   │   │           │   └── ... [depth limit]
+│   │   │           └── Wdg/
+│   │   │               └── ... [depth limit]
+│   │   ├── Mem/
+│   │   │   ├── _self/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   └── doc/
+│   │   │   │       └── pic/
+│   │   │   ├── Fee/
+│   │   │   │   ├── _metadata/
+│   │   │   │   │   └── mic/
+│   │   │   │   ├── api/
+│   │   │   │   ├── doc/
+│   │   │   │   │   └── pic/
+│   │   │   │   ├── scripts/
+│   │   │   │   │   ├── AR40/
+│   │   │   │   │   ├── AR42/
+│   │   │   │   │   └── common/
+│   │   │   │   ├── src/
+│   │   │   │   ├── src-java/
+│   │   │   │   │   └── fee/
+│   │   │   │   │       └── ... [depth limit]
+│   │   │   │   └── template/
+│   │   │   ├── Fee_Stc/
+│   │   │   │   ├── _self/
+│   │   │   │   │   └── _metadata/
+│   │   │   │   │       └── ... [depth limit]
+│   │   │   │   ├── rba_FeeFs1/
+│   │   │   │   │   ├── _metadata/
+│   │   │   │   │   │   └── ... [depth limit]
+│   │   │   │   │   ├── doc/
+│   │   │   │   │   └── src/
+│   │   │   │   ├── rba_FeeFs1x/
+│   │   │   │   │   ├── _metadata/
+│   │   │   │   │   │   └── ... [depth limit]
+│   │   │   │   │   ├── api/
+│   │   │   │   │   ├── doc/
+│   │   │   │   │   └── src/
+│   │   │   │   │       └── ... [depth limit]
+│   │   │   │   ├── rba_FeeFs2/
+│   │   │   │   │   ├── _metadata/
+│   │   │   │   │   │   └── ... [depth limit]
+│   │   │   │   │   ├── api/
+│   │   │   │   │   ├── doc/
+│   │   │   │   │   └── src/
+│   │   │   │   └── rba_FeeFs3/
+│   │   │   │       ├── _metadata/
+│   │   │   │       │   └── ... [depth limit]
+│   │   │   │       ├── api/
+│   │   │   │       ├── doc/
+│   │   │   │       └── src/
+│   │   │   ├── Fls/
+│   │   │   │   ├── _self/
+│   │   │   │   │   └── _metadata/
+│   │   │   │   │       └── ... [depth limit]
+│   │   │   │   ├── Fls/
+│   │   │   │   │   ├── _metadata/
+│   │   │   │   │   │   └── ... [depth limit]
+│   │   │   │   │   ├── api/
+│   │   │   │   │   ├── doc/
+│   │   │   │   │   │   └── ... [depth limit]
+│   │   │   │   │   ├── scripts/
+│   │   │   │   │   │   └── ... [depth limit]
+│   │   │   │   │   ├── src/
+│   │   │   │   │   └── template/
+│   │   │   │   └── rba_FlsIfx/
+│   │   │   │       ├── _metadata/
+│   │   │   │       │   └── ... [depth limit]
+│   │   │   │       ├── api/
+│   │   │   │       ├── doc/
+│   │   │   │       └── src/
+│   │   │   └── rba_MemLib/
+│   │   │       ├── _metadata/
+│   │   │       │   └── mic/
+│   │   │       ├── api/
+│   │   │       ├── doc/
+│   │   │       ├── src/
+│   │   │       ├── src-java/
+│   │   │       │   └── rbamemlib/
+│   │   │       │       └── ... [depth limit]
+│   │   │       └── template/
+│   │   └── WdgS/
+│   │       ├── _self/
+│   │       │   ├── _metadata/
+│   │       │   │   └── mic/
+│   │       │   └── doc/
+│   │       ├── WdgIf/
+│   │       │   ├── _metadata/
+│   │       │   │   └── mic/
+│   │       │   ├── api/
+│   │       │   ├── doc/
+│   │       │   │   ├── pic/
+│   │       │   │   └── pic-src/
+│   │       │   ├── scripts/
+│   │       │   └── templates/
+│   │       └── WdgM/
+│   │           ├── _metadata/
+│   │           │   └── mic/
+│   │           ├── api/
+│   │           ├── doc/
+│   │           │   ├── pic/
+│   │           │   └── pic-src/
+│   │           ├── scripts/
+│   │           ├── src/
+│   │           └── templates/
+│   └── PowerTrain/
+│       ├── CFG/
+│       │   ├── _metadata/
+│       │   │   └── mic/
+│       │   ├── BootCtrl/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   └── rba_BootCtrl/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Common/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── IFX/
+│       │   │           └── ... [depth limit]
+│       │   ├── BswLib/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── rba_BswSrv/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_MemLay/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── IFX/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── rba_Reset/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── Common/
+│       │   │           └── ... [depth limit]
+│       │   ├── Conf/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── Common/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── IFX/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── IFX4p_BGA_516/
+│       │   │           └── ... [depth limit]
+│       │   ├── Conf_Main/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   └── IFX/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── IFX4p_BGA_516/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── IFX_Common/
+│       │   │           └── ... [depth limit]
+│       │   ├── CUCEL_Conf/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   └── Common/
+│       │   │       └── _metadata/
+│       │   │           └── ... [depth limit]
+│       │   ├── Doc/
+│       │   ├── E2EServices/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── Crc/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── E2E/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── E2EXf/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── rba_E2EWP/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── Common/
+│       │   │           └── ... [depth limit]
+│       │   ├── EbOs/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── Os_STC/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Os/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_MultiStackTrace/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_OsMeasmt/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── rba_Runtime_STC/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── rba_Runtime/
+│       │   │           └── ... [depth limit]
+│       │   ├── Mcal/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── Adc_STC/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Adc/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── rba_IoMcuAdc/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Dio_STC/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Dio/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── rba_IoMcuDio/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Gpt/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── IFX/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Icu_STC/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Icu/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── rba_IoMcuIcu/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Mcu/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── IFX/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Port/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── IFX/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Pwm_STC/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Pwm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── rba_IoMcuPwm/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_Dma/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── IFX/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_Emm_STC/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── rba_Emm/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_Gtm/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── IFX/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_McalAdapt/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_Mpu/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── IFX/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_Reg/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Spi_STC/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Spi/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── Wdg_STC/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── Wdg/
+│       │   │           └── ... [depth limit]
+│       │   ├── Mem/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── Fee/
+│       │   │   │   ├── _metadata/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Common/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── IFX/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── ST/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── Fls_STC/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── Fls/
+│       │   │           └── ... [depth limit]
+│       │   ├── RSSOExtract/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   └── IFX/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── IFX4p_BGA_516/
+│       │   │           └── ... [depth limit]
+│       │   ├── TESTCD_BswAdp/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   └── TESTCD_Stubs/
+│       │   │       ├── _metadata/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── api/
+│       │   │       └── src/
+│       │   └── WdgS/
+│       │       ├── _metadata/
+│       │       │   └── mic/
+│       │       ├── WdgIf/
+│       │       │   ├── _metadata/
+│       │       │   │   └── ... [depth limit]
+│       │       │   ├── Common/
+│       │       │   │   └── ... [depth limit]
+│       │       │   └── IFX/
+│       │       │       └── ... [depth limit]
+│       │       └── WdgM/
+│       │           ├── _metadata/
+│       │           │   └── ... [depth limit]
+│       │           ├── Common/
+│       │           │   └── ... [depth limit]
+│       │           └── IFX/
+│       │               └── ... [depth limit]
+│       ├── EnvSw/
+│       │   ├── _metadata/
+│       │   │   └── mic/
+│       │   └── Stubs/
+│       │       ├── _metadata/
+│       │       │   └── mic/
+│       │       ├── api/
+│       │       └── src/
+│       ├── MAK/
+│       │   ├── _metadata/
+│       │   │   └── mic/
+│       │   ├── AGI/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── ASAP_BYPASS/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── ASAP_ETK/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── ASAP_SVBB/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Common/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── XCP1_0/
+│       │   │   │   └── ASAP_XCP/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── XCP1_2/
+│       │   │       └── ASAP_XCP/
+│       │   │           └── ... [depth limit]
+│       │   ├── ARA2LTmplt_ICE/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   └── ICE_2_4_0/
+│       │   │       └── _metadata/
+│       │   │           └── ... [depth limit]
+│       │   ├── DatGenDGS_ICE/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── DGS_ICE_3_0_0/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── DGS_ICE_3_1_3/
+│       │   │       └── _metadata/
+│       │   │           └── ... [depth limit]
+│       │   ├── MakeWare/
+│       │   │   ├── _metadata/
+│       │   │   │   └── mic/
+│       │   │   ├── Common/
+│       │   │   │   └── _metadata/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── IFX/
+│       │   │       └── IFX4p_BGA_516/
+│       │   │           └── ... [depth limit]
+│       │   └── ToolConfig/
+│       │       ├── _metadata/
+│       │       │   └── mic/
+│       │       ├── CompileGroups/
+│       │       │   └── _metadata/
+│       │       │       └── ... [depth limit]
+│       │       └── DamSev/
+│       │           ├── 1_6_x/
+│       │           │   └── ... [depth limit]
+│       │           └── _metadata/
+│       │               └── ... [depth limit]
+│       └── Tools/
+│           ├── _metadata/
+│           │   └── mic/
+│           ├── A2LMerger/
+│           │   └── _metadata/
+│           │       └── mic/
+│           ├── CDGB/
+│           │   ├── _metadata/
+│           │   │   └── mic/
+│           │   ├── ara2l/
+│           │   │   └── _metadata/
+│           │   │       └── ... [depth limit]
+│           │   ├── build/
+│           │   │   ├── _metadata/
+│           │   │   │   └── ... [depth limit]
+│           │   │   └── GHS/
+│           │   ├── coreproc/
+│           │   │   └── _metadata/
+│           │   │       └── ... [depth limit]
+│           │   ├── hexmod/
+│           │   │   └── _metadata/
+│           │   │       └── ... [depth limit]
+│           │   ├── MakeAction_CFileList/
+│           │   │   └── _metadata/
+│           │   │       └── ... [depth limit]
+│           │   ├── msra2l/
+│           │   │   └── _metadata/
+│           │   │       └── ... [depth limit]
+│           │   ├── msrdata/
+│           │   │   └── _metadata/
+│           │   │       └── ... [depth limit]
+│           │   └── rte/
+│           │       └── _metadata/
+│           │           └── ... [depth limit]
+│           └── rba_BuildActionCallRTAOS/
+│               ├── _metadata/
+│               │   └── mic/
+│               └── IFX/
+│                   └── IFX4p_BGA_516/
+│                       └── ... [depth limit]
+├── rbd/
+│   └── cgwce/
+│       ├── DevTools/
+│       │   ├── ADA_SecurityScript/
+│       │   ├── BauhausReport/
+│       │   ├── Calculate_RAM_ROM_Consumption/
+│       │   ├── Convert_IJ_PIF/
+│       │   ├── Convert_VectorReport/
+│       │   │   └── PDF/
+│       │   ├── Flash_VirginECU/
+│       │   │   └── efuse_jtag_v2.01.0009_untested/
+│       │   ├── Generate_NvMdump/
+│       │   ├── Hexview/
+│       │   │   ├── _examples/
+│       │   │   └── _expdatproc/
+│       │   ├── OSS_Scan/
+│       │   ├── PACCAR_DEV_GUI/
+│       │   ├── Parsing_CompilerWarning/
+│       │   ├── PostBuild/
+│       │   │   └── icons/
+│       │   ├── Prepare_Switch_CANFlash/
+│       │   ├── Signing_APP/
+│       │   │   ├── Compressed/
+│       │   │   ├── Compressed_Encrypted/
+│       │   │   ├── Encrypted/
+│       │   │   └── Signed/
+│       │   ├── UDSFirewall_Converter/
+│       │   └── Validate_IJConfig/
+│       ├── Documents/
+│       │   ├── CDD/
+│       │   │   └── PACCAR_CSG2_R10/
+│       │   ├── NvM_Hex_Dump/
+│       │   ├── ReleaseSW/
+│       │   │   ├── 01_FBL/
+│       │   │   │   ├── R10_TC5_BOOT7.3/
+│       │   │   │   ├── R9.1_TC5/
+│       │   │   │   ├── R9.4_BOOT7.1.1/
+│       │   │   │   └── R9.4_BOOT7.2/
+│       │   │   ├── 02_SWITCH/
+│       │   │   │   ├── R10_TC4/
+│       │   │   │   ├── R10_TC6/
+│       │   │   │   ├── R9.1_TC6/
+│       │   │   │   └── R9.1_TC7/
+│       │   │   ├── PACCAR_CSG2_R10_TC1/
+│       │   │   ├── PACCAR_CSG2_R10_TC2/
+│       │   │   ├── PACCAR_CSG2_R10_TC3/
+│       │   │   ├── PACCAR_CSG2_R10_TC4/
+│       │   │   ├── PACCAR_CSG2_R10_TC5/
+│       │   │   ├── PACCAR_CSG2_R10_TC6/
+│       │   │   ├── PACCAR_CSG2_R10_TC7/
+│       │   │   ├── PACCAR_CSG2_R9.1_TC1/
+│       │   │   ├── PACCAR_CSG2_R9.1_TC2/
+│       │   │   ├── PACCAR_CSG2_R9.1_TC3/
+│       │   │   ├── PACCAR_CSG2_R9.1_TC4/
+│       │   │   ├── PACCAR_CSG2_R9.1_TC5/
+│       │   │   ├── PACCAR_CSG2_R9.1_TC6/
+│       │   │   ├── PACCAR_CSG2_R9.1_TC7/
+│       │   │   ├── PACCAR_CSG2_R9.3_TC1/
+│       │   │   ├── PACCAR_CSG2_R9.4_TC1/
+│       │   │   ├── PACCAR_CSG2_R9_TC1/
+│       │   │   ├── PACCAR_CSG2_R9_TC2/
+│       │   │   ├── PACCAR_CSG2_R9_TC4/
+│       │   │   ├── PACCAR_CSG2_R9_TC5/
+│       │   │   ├── PACCAR_CSG2_R9_TC6/
+│       │   │   ├── PACCAR_CSG2_R9_TC7/
+│       │   │   └── PACCAR_CSG2_R9_TC8/
+│       │   └── TestReports/
+│       │       ├── Bauhuas/
+│       │       ├── CCR/
+│       │       ├── Compiler_Warning/
+│       │       ├── Metric Violations/
+│       │       ├── OSS/
+│       │       ├── Polyspace/
+│       │       ├── RTRT/
+│       │       └── Test Summary Report/
+│       ├── sw/
+│       │   ├── 01_ApplicationLayer/
+│       │   │   └── DiagUDS/
+│       │   │       ├── Cfg/
+│       │   │       ├── Dsg/
+│       │   │       ├── Inc/
+│       │   │       └── Src/
+│       │   ├── 02_RuntimeEnvironment/
+│       │   │   └── Rte/
+│       │   │       ├── Cfg/
+│       │   │       ├── Dsg/
+│       │   │       ├── Inc/
+│       │   │       └── Src/
+│       │   ├── 03_ServiceLayer/
+│       │   │   ├── Common/
+│       │   │   │   └── Common/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── CommunicationServices/
+│       │   │   │   ├── CanNm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── CanSM/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── CanTp/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Com/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Dcm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Dlt/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── DoIP/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── DoIPInt/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── EthSM/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── IpBase/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── IpduM/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── J1939Dcm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── J1939Nm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── J1939Rm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── J1939Tp/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── LdCom/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Nm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── PduR/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Sd/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── SecOC/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── SoAd/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── TcpIp/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── UdpNm/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── Xcp/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── CryptoServices/
+│       │   │   │   └── Csm/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── MemoryServices/
+│       │   │   │   └── NvM/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── SystemServices/
+│       │   │       ├── BswM/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── ComM/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Crc/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Dbg/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Dem/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Det/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── EcuM/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── ECUVersion/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── ExceptionHandler/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Os/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── RamTst/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── rba_MultiStackTrace/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── rba_Runtime/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── rba_RuntimeIfx/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── SchM/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── StbM/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── WdgM/
+│       │   │           └── ... [depth limit]
+│       │   ├── 04_EcuAbstractionLayer/
+│       │   │   ├── CommunicationHWAbstraction/
+│       │   │   │   ├── CanIf/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── CanTrcv/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── CanTsyn/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── EthIf/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── EthSwt/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── EthTrcv/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── EthTrcv_30_88Q1010/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── EthTrcv_Q2112/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── CryptoHwAbstraction/
+│       │   │   │   └── CryIf/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── IoHwAbstraction/
+│       │   │   │   └── IoHwAb/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── MemoryHwAbstraction/
+│       │   │   │   └── MemIf/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── OnboardDeviceAbstraction/
+│       │   │       └── WdgIf/
+│       │   │           └── ... [depth limit]
+│       │   ├── 05_MicrocontrollerLayer/
+│       │   │   └── CommunicationDrivers/
+│       │   │       ├── CanDrv/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── EthDrv/
+│       │   │       │   └── ... [depth limit]
+│       │   │       └── Spi/
+│       │   │           └── ... [depth limit]
+│       │   ├── 06_ComplexDrivers/
+│       │   │   ├── CommonConfigWrappers/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── ComSignals/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── CycurSecurityInterface/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── DirectEthConManagement/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── IdsInterfaceLayer/
+│       │   │   │   ├── Files_Recieved_From_Escrypt/
+│       │   │   │   ├── includes/
+│       │   │   │   ├── Lib/
+│       │   │   │   └── Src/
+│       │   │   ├── InventoryJob/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── RAHandler/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── RateLimiter/
+│       │   │   │   ├── includes/
+│       │   │   │   └── Src/
+│       │   │   ├── rb_RMUHandler/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   └── UdsFirewall/
+│       │   │       ├── Inc/
+│       │   │       └── Src/
+│       │   ├── 08_Libraries/
+│       │   │   ├── calsup/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── Crc/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── cucel/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── E2EServices/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── rba_EcuCybSec/
+│       │   │   │   ├── CUBAS/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── QUALITY/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── TEST/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── rba_MemLay/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── SWTimer/
+│       │   │   │   └── SWTimer/
+│       │   │   │       └── ... [depth limit]
+│       │   │   └── VStdLib/
+│       │   │       ├── Cfg/
+│       │   │       ├── Dsg/
+│       │   │       ├── Inc/
+│       │   │       └── Src/
+│       │   ├── 09_Configuration/
+│       │   │   ├── 10_Other/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── 11_stubs/
+│       │   │   │   ├── Cfg/
+│       │   │   │   ├── CpuGeneric/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   ├── Dsg/
+│       │   │   │   ├── Inc/
+│       │   │   │   └── Src/
+│       │   │   ├── Bauhaus/
+│       │   │   ├── Cdd/
+│       │   │   ├── DBCs/
+│       │   │   ├── EcuExtract/
+│       │   │   ├── OsConfig/
+│       │   │   │   ├── original/
+│       │   │   │   ├── Os_Config_Davinici/
+│       │   │   │   └── output/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── SWC/
+│       │   │   │   ├── Ssa/
+│       │   │   │   │   └── ... [depth limit]
+│       │   │   │   └── SwcDiag/
+│       │   │   │       └── ... [depth limit]
+│       │   │   ├── Vector/
+│       │   │   │   └── stub/
+│       │   │   └── VectorConfig/
+│       │   │       ├── .workflow/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Appl/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── Config/
+│       │   │       │   └── ... [depth limit]
+│       │   │       ├── DefRestrict/
+│       │   │       └── Log/
+│       │   │           └── ... [depth limit]
+│       │   └── _scripts/
+│       │       └── HexmodX_related/
+│       │           └── output/
+│       └── TransferX/
+│           └── Cubas_Arxml/
+└── toBeExchanged/
+    └── Patches/
+        └── ToolbaseCCheckerconfig/
+            └── GHS/

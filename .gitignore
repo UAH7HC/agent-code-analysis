@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Keep repository metadata files
+!.gitignore
+!README.md
+
+# Track Agent CodeAnalysis workspace
+!.roo/
+!.roo/**
+
+.roo/output/code-base-knowledge/*.json
