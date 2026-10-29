@@ -2,6 +2,9 @@
 
 Compiler-derived code analysis workspace for building a reusable project knowledge base (KB) and using it for dependency / impact analysis.
 
+## Agent Platform
+- MiDAS (rolled out)
+
 ## What is included
 
 - `.roo/tools/bins/ghs_xref_parser.exe` — builds the KB from one matching GHS `.elf` + `.map`.
