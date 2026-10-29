@@ -1,4 +1,4 @@
-# Agent CodeAnalysis
+# CodeGraph
 
 Compiler-derived code analysis workspace for building a reusable project knowledge base (KB) and using it for dependency / impact analysis.
 
