@@ -2,8 +2,9 @@
 
 Compiler-derived code analysis workspace for building a reusable project knowledge base (KB) and using it for dependency / impact analysis.
 
-## Agent Platform
+## Agent Supported Platform
 - MiDAS (rolled out)
+- To compatible with another Agent, user adjusts to proper skeleton, skill template, folder structure,... 
 
 ## What is included
 
